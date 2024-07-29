@@ -1,35 +1,30 @@
-# test_project
+# links.jdhillen.com
 
-This template should help get you started developing with Vue 3 in Vite.
+> Linktree clone for custom social media links
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Requirements
 
-## Customize configuration
+- [Node.js](https://nodejs.org/en/) - v20.0.0
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+### Installing
 
-```sh
+```bash
+
+# clone the repo
+git clone https://github.com/jdhillen/links.jdhillen.com.git
+
+# cd into the folder
+cd links.jdhillen.com
+
+# install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# serve application at localhost:3000
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
+---
